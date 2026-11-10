@@ -1,1 +1,1 @@
-# Exp-4--Record-Image-Transformations-Completion-requirements
+# Exp-4--Record-Image-Transformations
